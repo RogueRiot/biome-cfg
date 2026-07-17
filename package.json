@@ -1,0 +1,8 @@
+{
+  "name": "biome-cfg",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Biome configuration rules",
+  "type": "module",
+  "license": "MIT"
+}

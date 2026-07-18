@@ -4,5 +4,11 @@
   "private": true,
   "description": "Biome configuration rules",
   "type": "module",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "biome rage --config-path=./config.json"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.4"
+  }
 }

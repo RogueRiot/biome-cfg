@@ -168,7 +168,7 @@
         "useExhaustiveDependencies": "error",
         "useHookAtTopLevel": "error",
         "useImageSize": "warn",
-        "useImportExtensions": "error",
+        "useImportExtensions": "off",
         "useInlineScriptId": "error",
         "useIsNan": "error",
         "useJsonImportAttributes": "error",
